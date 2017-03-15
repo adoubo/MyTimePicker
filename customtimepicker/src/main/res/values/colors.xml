@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_color">#EEEEEE</color>
+    <color name="bg_color">#CB2D32</color>
+    <color name="bg_fade_color">#F4D5D6</color>
+    <color name="text_color">#33b5e5</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="blue">#ff33b5e5</color>
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+
+    <color name="transparent_black">#7F000000</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CustomTimePicker</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="week">Week</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <string name="sans_serif" translatable="false">sans-serif</string>
+
+    <string name="radial_numbers_typeface" translatable="false">sans-serif</string>
+
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+</resources>
